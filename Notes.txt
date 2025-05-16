@@ -1,1 +1,4 @@
 when a function call itself until a specified condition is met
+the condition which is used to stop the recurrsion is --> Base condition
+
+
